@@ -1,4 +1,4 @@
-# WeatherApplication
+# Portfolio Website
 A simple portfolio website made with HTML and CSS.
 ## Whats's inside:
 Here you can see about my introduction and also reach out to me with my socials.
